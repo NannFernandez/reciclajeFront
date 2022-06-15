@@ -1,0 +1,19 @@
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    color: black;
+}
+
+.nav a {
+    padding: 10px;
+    text-decoration: none;
+    color: brown;
+}
+
+.nav a :hover {
+    color: blue;
+}
